@@ -13,7 +13,7 @@ The contact component includes a working form that sends an email to my personal
 
 The portfolio component is formatted to give links to my various projects on github. The portfolio component has Project Previews with a link to a few of the projects I have uploaded including: Password Generator, Lazy Foodie App, Emplloyee Tracker, Burger Logger, AutoMind, Online-Offline-Budget-Tracker.
 
-Checkout the Deployed Application here: https://alexbertuzzi.github.io/Personal-Portfolio/
+Checkout the Deployed Application here: https://alexbertuzzi-reactportfolio.herokuapp.com/
 
 ![Screenshot](assets/image1.png)
 ![Screenshot](assets/image2.png)
